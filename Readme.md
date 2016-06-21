@@ -20,7 +20,7 @@ and on tweak to Hardware.ini file.
 
 How to use
 ----------
-Download the latest release from the [Releases](https://github.com/vhanla/SublimeTextTrans/releases) section.
+Download the latest release from the [Releases](https://github.com/vhanla/UPoPS/releases) section.
 
 It is recommended to extract the executable inside the Ubisoft's Prince of Persia The Sands of Time path, next ot POP.EXE file, so it will detect it as soon as it is launched, otherwise you will have to search it manually.
 
